@@ -1,1 +1,1 @@
-worker: Kraken.js
+worker: node KrakenProject.js
