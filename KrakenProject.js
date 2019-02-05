@@ -27,7 +27,7 @@ commandIntervals = [];
 bot.login(token)
   
 bot.on('ready',() => {
-  bot.user.setActivity('Eaucalme <3', { type: 'STREAMING', url: 'https://www.twitch.tv/eaucalmelpb' });
+  bot.user.setActivity('Eaucalme#6745', { type: 'STREAMING', url: 'https://www.twitch.tv/eaucalmelpb' });
   let memberCount = bot.users.size;
   let serverCount = bot.guilds.size;
   con(
